@@ -1,0 +1,14 @@
+.ragnar {
+    font-size: larger;
+    -webkit-text-fill-color: rgb(37, 12, 61);
+    text-align: center;
+    font-style: italic;
+
+}
+
+.thor {
+    height: 70px;
+    width: 500px;
+    background-color: hsl(36, 43%, 85%);
+    margin: 20px;
+    padding-
