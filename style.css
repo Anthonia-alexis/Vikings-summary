@@ -2,8 +2,7 @@
     background-color: #004282;
     text-align: center;
     color: #fffafa;
-    font-family: "Times New Roman", serif;
-    font-size: 55px;
+    font-family: 'Bona Nova'; font-size: 22px;
     border-radius: 15px;
     margin-top: 15px;
     margin-left: 10px;
@@ -15,7 +14,7 @@
 }
 
 #container {
-    background-color: #cadff4;
+    background-color: #1b1b32;
     font-size: 20px;
     padding-left: 10px;
     padding-right: 10px;
@@ -24,7 +23,7 @@
 }
 
 .frame {
-    background-color: rgb(135, 134, 241);
+    background-color: #1b1b32;
 }
 
 .paragraph {
@@ -34,8 +33,6 @@
 .ragnar-picture {
     text-align: center;
 }
-
-.tabular {}
 
 table,
 th,
@@ -52,7 +49,7 @@ td {
 }
 
 a {
-    color: darkmagenta;
+    color: #f5f6f7;
 }
 
 a:hover {
